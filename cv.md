@@ -4,11 +4,12 @@
 
 *999-99-99*
 
-## Skills
+### Skills
 * MS Office (advanced user), QuickBooks (Introduction to QuickBooks Online: for Accountants), data entry skills, strong work ethic, time management, handling pressure, collaboration, problem solving.
 
 ### Experience
-* _Promsvyazbank_ December 2016 — July 2019, Moscow, www.psbank.ru
+#### _Promsvyazbank_ 
+December 2016 — July 2019, Moscow, www.psbank.ru
 * Chief credit analyst
 * Negotiations with business owners, deal structuring.
 * Analysis of the Borrower's financial condition using the EBRD methodology (analysis of accounting and management reports).
@@ -20,13 +21,15 @@
 * Collateral valuation of assets.
 * Analysis of the borrower's legal capacity and legal risks of the transaction.
 
-### *LOCKO-BANK* October 2014 — November 2016/ Moscow/ www.lockobank.ru
+#### *LOCKO-BANK* 
+October 2014 — November 2016/ Moscow/ www.lockobank.ru
 * Chief credit analyst of the customer service Department of the sales Directorate of small and medium businesses.
 
-### *Bank Credit-Moscow* January 2013 — September 2014/ Moscow/ cmbank.ru
+#### *Bank Credit-Moscow* 
+January 2013 — September 2014/ Moscow/ cmbank.ru
 * Leading expert on lending and development SMB.
 
-## Education:
+### Education:
 * Higher: Moscow Engineering Physics Institute Faculty of management and Economics of high technologies, Economist;
 * Moscow University of Finance and law (Moscow Academy of Finance and law)
 Faculty of business and law, jurisprudence
